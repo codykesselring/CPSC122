@@ -1,0 +1,2 @@
+Overview and Requirements
+For this task, you will convert INFIX expressions to POSTFIX expressions and then evaluate those POSTFIX expressions using stacks. An INFIX expression is the common form of mathematical expressions we are familiar with, such as A+B. Do you see how the operator is “in” between the operands? POSTFIX is another way of writing such an expression where the operator goes after (“post”) the operands, such as AB+. POSTFIX expressions have precedence and associativity builtin so we can process them left to right
