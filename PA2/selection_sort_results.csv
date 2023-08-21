@@ -1,0 +1,13 @@
+Vector Configuration,Microseconds,# Data Comparisons,# Loop Comparisons,# Data Assignments,# Loop Assignments,# Other,# Total
+Sorted N=500,1,499,503,5,502,1,1510
+Sorted N=1000,2,999,1003,5,1002,1,3010
+Sorted N=5000,10,4999,5003,5,5002,1,15010
+Sorted N=10000,20,9999,10003,5,10002,1,30010
+Descending sorted N=500,0,499,503,5,502,1,1510
+Descending sorted N=1000,1,999,1003,5,1002,1,3010
+Descending sorted N=5000,9,4999,5003,5,5002,1,15010
+Descending sorted N=10000,19,9999,10003,5,10002,1,30010
+Random N=500,1,499,503,5,502,1,1510
+Random N=1000,1,999,1003,5,1002,1,3010
+Random N=5000,9,4999,5003,5,5002,1,15010
+Random N=10000,19,9999,10003,5,10002,1,30010
